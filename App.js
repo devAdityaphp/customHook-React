@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-
 import './style.css';
 import useFnHook from './useFnHook';
 export default function App() {
